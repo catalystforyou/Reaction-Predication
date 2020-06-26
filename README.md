@@ -1,5 +1,6 @@
 # Reaction-Predication
-A cheminformatical project based on serveral published papers intending to predict yields for organic reactions.
+A cheminformatical project based on several published papers intending to predict yields for organic reactions.
+
 一种基于分子描述符计算和机器学习的反应性预测手段。
 
 ## Reference
